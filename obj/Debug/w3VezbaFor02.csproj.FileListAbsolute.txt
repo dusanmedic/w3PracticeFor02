@@ -1,0 +1,7 @@
+D:\vezbe\New folder\w3VezbaFor02\bin\Debug\w3VezbaFor02.exe.config
+D:\vezbe\New folder\w3VezbaFor02\bin\Debug\w3VezbaFor02.exe
+D:\vezbe\New folder\w3VezbaFor02\bin\Debug\w3VezbaFor02.pdb
+D:\vezbe\New folder\w3VezbaFor02\obj\Debug\w3VezbaFor02.csproj.AssemblyReference.cache
+D:\vezbe\New folder\w3VezbaFor02\obj\Debug\w3VezbaFor02.csproj.CoreCompileInputs.cache
+D:\vezbe\New folder\w3VezbaFor02\obj\Debug\w3VezbaFor02.exe
+D:\vezbe\New folder\w3VezbaFor02\obj\Debug\w3VezbaFor02.pdb
