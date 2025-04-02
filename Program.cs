@@ -18,6 +18,7 @@ namespace w3VezbaFor02
             for (int i = 1; i <= input; i++)
             {
                 rez += i;
+
             }
 
             Console.WriteLine(rez);
