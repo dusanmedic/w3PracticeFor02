@@ -19,6 +19,7 @@ namespace w3VezbaFor02
             {
                 rez += i;
 
+                Console.WriteLine(rez);
             }
 
             Console.WriteLine(rez);
